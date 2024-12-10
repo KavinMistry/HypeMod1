@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "hypemod:endium"
+    }
+  },
+  "pattern":
+  [
+    " A ",
+    " A ",
+    " A "
+  ],
+  "result":{
+    "count": 1,
+    "id": "hypemod:summoner"
+  }
+}

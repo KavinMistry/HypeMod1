@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "hypemod:endium_block"
+    }
+  },
+  "pattern":
+  [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "result":{
+    "count": 1,
+    "id": "hypemod:refined_endium"
+  }
+}

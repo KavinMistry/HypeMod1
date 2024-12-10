@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:stick"
+    },
+    "A":{
+      "item": "hypemod:refined_endium"
+    }
+  },
+  "pattern":
+  [
+    " A ",
+    " A ",
+    " B "
+  ],
+  "result": {
+    "count": 1,
+    "id": "hypemod:aspectoftheend"
+  }
+}

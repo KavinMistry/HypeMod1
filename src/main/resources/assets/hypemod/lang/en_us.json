@@ -1,0 +1,12 @@
+{
+  "item.hypemod.aspectoftheend" : "Aspect Of The End",
+  "item.hypemod.endium" : "Endium",
+  "item.hypemod.refined_endium" : "Refined Endium",
+  "item.hypemod.summoner" : "Summoner",
+
+  "block.hypemod.endium_block" : "Endium Block",
+  "block.hypemod.endium_ore" : "Endium Ore",
+
+  "creativetab.hypemod.endium_items" : "Endium Items",
+  "creativetab.hypemod.endium_block" : "Endium Blocks"
+}

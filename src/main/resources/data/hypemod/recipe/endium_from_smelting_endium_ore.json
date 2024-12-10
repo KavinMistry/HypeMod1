@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 400,
+  "experience": 10.0,
+  "ingredient": {
+    "item": "hypemod:endium_ore"
+  },
+  "result":
+  {
+    "id": "hypemod:endium"
+  }
+}
